@@ -1,0 +1,23 @@
+{
+  "name": "node-typescript",
+  "version": "1.0.0",
+  "description": "test for nodeJS and typescript deverlop environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagase2/node-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagase2/node-typescript/issues"
+  },
+  "homepage": "https://github.com/nagase2/node-typescript#readme",
+  "dependencies": {
+    "jasmine": "^2.8.0",
+    "typescript": "^2.6.2"
+  }
+}
