@@ -1,1 +1,6 @@
-xxxx
+newFunction();
+
+function newFunction() {
+    xxxxlll;
+    ll[];
+}
